@@ -8,6 +8,6 @@
 
 - Admin Guide
 
-  - [Add Users](configuration.md)
+  - [Add Users](add-user.md)
 
 - Email Migration Guide

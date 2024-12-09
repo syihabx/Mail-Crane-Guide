@@ -1,3 +1,5 @@
-# Headline
+# Crane Mail User Guide
 
-> An awesome project.
+Order mail hosting in [NameCrane.com](https://namecrane.com/)
+
+![mail](/mail.png)
