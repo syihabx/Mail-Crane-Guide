@@ -9,5 +9,6 @@
 - Admin Guide
 
   - [Add Users](add-user.md)
+  - [Claim EMClient Licenses](emclient-licenses.md)
 
 - Email Migration Guide
